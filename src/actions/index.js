@@ -1,10 +1,10 @@
-import { ADD_FORMS } from '../reducers';
+const ADD_LOGIN = 'ADD_LOGIN';
 
-function user(email) { // user e passado no mapdispatchtoprops
+export function userEmail(email) { // user e passado no mapdispatchtoprops
   return {
-    type: ADD_FORMS,
+    type: ADD_LOGIN,
     payload: email,
   };
 }
 
-export default user;
+export default userEmail;
