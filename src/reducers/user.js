@@ -9,7 +9,7 @@ const INITIAL_STATE = {
 export function user(state = INITIAL_STATE, action) {
   switch (action.type) {
   case ADD_LOGIN:
-    return { ...state, ...action.payload };
+    return { ...state, email: action.email };
   default:
     return state;
   }
