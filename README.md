@@ -23,3 +23,15 @@
 
 - Criar _actions_ assíncronas na sua aplicação React que faz uso de Redux.
 </details>
+
+
+<details>
+  <summary><strong> 👀 Instalando Dependências e Executando Aplicação</strong></summary><br />
+  Rode o comando:
+  - `npm install`.
+
+  Inicialize o projeto:
+  - `npm start` (uma nova página deve abrir no seu navegador)
+
+
+</details>
