@@ -27,11 +27,8 @@
 
 <details>
   <summary><strong> 👀 Instalando Dependências e Executando Aplicação</strong></summary><br />
-  Rode o comando: <br>
+Inicialize o projeto:
   - `npm install`
-
-  Inicialize o projeto:
-  - `npm start` (uma nova página deve abrir no seu navegador)
   - `npm start` (uma nova página deve abrir no seu navegador)
 
 
