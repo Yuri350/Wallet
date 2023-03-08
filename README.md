@@ -32,6 +32,7 @@
 
   Inicialize o projeto:
   - `npm start` (uma nova página deve abrir no seu navegador)
+  - `npm start` (uma nova página deve abrir no seu navegador)
 
 
 </details>
