@@ -27,7 +27,8 @@
 
 <details>
   <summary><strong> 👀 Instalando Dependências e Executando Aplicação</strong></summary><br />
-Inicialize o projeto:
+  Inicialize o projeto:
+ 
   - `npm install`
   - `npm start` (uma nova página deve abrir no seu navegador)
 
