@@ -27,7 +27,7 @@
 
 <details>
   <summary><strong> 👀 Instalando Dependências e Executando Aplicação</strong></summary><br />
-  Rode o comando:
+  Rode o comando: <br>
   - `npm install`.
 
   Inicialize o projeto:
